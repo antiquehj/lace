@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Lace!
+          Hello Lace! Lovely Lace!
         </a>
       </header>
     </div>
