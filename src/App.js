@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Lace!
+          Hello 레이스!
         </a>
         <h4> Lace1 Lovely Lace!</h4>
         <h5>레이스</h5>
